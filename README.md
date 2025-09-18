@@ -1,2 +1,3 @@
 # Bmi-calculator
-editor - yash
+
+this is the first javascript project
