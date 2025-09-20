@@ -1,6 +1,3 @@
 # Bmi-calculator
 
-this is the first javascript project
-
-
-while i am editing this , vs code indicates  with (m) symbol
+http://127.0.0.1:5500/Bmi-calculator/bmi.html
